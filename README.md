@@ -1,2 +1,1 @@
-# k20cntt-thiet-ke-web
-bai tap thiet ke web pham quoc bao -k20
+# K20_Lab6
